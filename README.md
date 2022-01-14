@@ -5,3 +5,4 @@ Proyecto de conversión de Excel al [formato requerido](http://rpc.minhap.es/reg
 
 ![imagen](https://user-images.githubusercontent.com/2887216/149492578-8ce2d892-a806-4910-869f-52219fbd260a.png)
 
+Puede descargar la aplicación para windows en el menu 'Releases' de la derecha
